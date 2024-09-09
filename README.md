@@ -1,7 +1,5 @@
 ### Hi😎✌️
 
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4E16AQFsw3TT5f_I_Q/profile-displaybackgroundimage-shrink_350_1400/0/1712939564275?e=1724889600&v=beta&t=H7FBT8j5FfpQ1VEbJENmBok_gtAK7GJn9gHrLQAgB_Q)
-
 I am Sakith, an undergraduate student from Sri lanka. I do web development and software development. I realy enjoy learning new programming languages and i have a good understanding about Java, Python, C#, Javascript, PHP and frameworks such as NodeJS, ExpressJS, ReactJS, dotnet.
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SakithDW)](https://github.com/anuraghazra/github-readme-stats)
